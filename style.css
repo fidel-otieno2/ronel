@@ -1,0 +1,152 @@
+*{
+
+    margin: 0;
+    padding: 5;
+}
+
+.main{
+    width: 100%;
+    background-color: rosybrown;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    position: relative;
+    font-family: sans-serif;
+}
+
+.navbar{
+    width: 100%;
+    display: flex;
+    margin: auto;
+    padding: 20px 10px;
+    align-items: first top;
+    justify-content: space-between;
+}
+
+.navbar .logo{
+    width: 150px;
+    cursor: pointer;
+    margin: 0%;
+    margin-left: -100;
+    margin-top: -10%;
+    size: 4px;
+    margin-bottom: 30%;
+}
+
+ul{
+    margin-top: 0%;
+    position: relative;
+    margin-left: -50%;
+}
+
+ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 14px 20px;
+    margin-left: -100;
+    color: aquamarine;
+}
+
+ul li a{
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: green;
+    color: brown;
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+
+}
+
+ul li a:hover{
+    color: black;
+
+}
+
+.info{
+    margin-left: -100%;
+    margin-top:9%;
+    font: 2px;
+    margin-right: 65%;
+}
+
+.info h1{
+    font-size: 30px;
+    color: rgb(red, green, blue);
+    padding: -100%;
+    margin-top: 0%;
+    margin-left: 0;
+}
+
+.info h3{
+    font-size: 20px;
+    letter-spacing: 2px;
+    line-height: 40px;
+    padding:auto;
+    margin-left: 0;
+    margin-right: -208;
+
+}
+.info span{
+    color: rgb(red, green, blue);
+
+}
+.info a{
+    text-decoration: none;
+    color: rgb(red, green, blue);
+    background: rgb(red, green, blue);
+    margin: 30px 20px;
+    padding: 10px 20px;
+    border-radius: -10px;
+    display: inline-block;
+    transition: .4s ease;
+}
+
+.info a:hover{
+    background: rgb(red, green, blue);
+}
+.image{
+    width: -50%;
+    height: -50%;
+    position: absolute;
+    right: 70px;
+    margin-bottom: -10%;
+    margin-top: -10%;
+}
+
+.image img{
+    position: absolute;
+    height: 10%;
+    left: 95%;
+    transform: translate(-55%);
+    transition: left 2s ease;
+    size-adjust: 100%;
+}
+
+.image:hover.1746386265212.jpg{
+    left: -50%;
+    position: relative;
+    margin: 86;
+
+}
+
+.icons a{
+    text-decoration: khaki;
+    color: rgb(red, green, blue);
+    position: relative;
+    margin-left: 10%;
+
+}
+
+.icons ion-icon{
+    margin-left: 7O%;
+    color: red;
+    margin-right: 60px;
+    font-size: 40PX;
+    transition: 4S ease;
+}
+
+icons ion-icon:hover{
+    color: rgb(red, green, blue);
+
+}
